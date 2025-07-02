@@ -1,0 +1,1 @@
+# this is a Amazom clone made by using html and css, Now this is not fully complete i don't add the javascript in backend 
